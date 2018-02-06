@@ -1,5 +1,12 @@
 title: W Parker MacKenzie
 description: “It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.” - J.R.R. Tolkien, The Lord of the Rings
-show_downloads: true
+show_downloads: false
+show_resume: true
+contact_email: wparkermackenzie@outlook.com
+contact_facebook: https://www.facebook.com/wpmackenzie
+contact_github: https://github.com/wparkermackenzie
+contact_linkedin: https://www.linkedin.com/in/wmackenzie/
+contact_twitter: https://twitter.com/IoT_Engineer
+contact_strava: https://www.strava.com/athletes/2691206
 google_analytics:
 theme: jekyll-theme-cayman

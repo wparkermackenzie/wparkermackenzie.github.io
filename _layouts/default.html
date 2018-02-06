@@ -21,10 +21,39 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-      <a href="https://twitter.com/IoT_Engineer">
-        <i class="fab fa-twitter fa-lg"></i>
-      </a>
+
+      {% if site.show_resume %}
+        <a href="/resume-page.md" class="btn">Resume</a>
+      {% endif %}
+
+      <a href="resume-page.md" class="btn">Resume</a> </br>
+
+      {% if site.contact_email %}
+      <a href="mailto:{{ site.contact_email }}"> <i class="fas fa-envelope-square fa-3x" style="color:white"></i> </a>
+      {% endif %}
+
+      {% if site.contact_linkedin %}
+      <a href="{{ site.contact_linkedin }}"> <i class="fab fa-linkedin fa-3x" style="color:white"></i> </a>
+      {% endif %}
+
+      {% if site.contact_github %}
+      <a href="{{ site.contact_github }}"> <i class="fab fa-github fa-3x" style="color:white"></i> </a>
+      {% endif %}
+
+      {% if site.contact_twitter %}
+      <a href="{{ site.contact_twitter }}"> <i class="fab fa-twitter fa-3x" style="color:white"></i> </a>
+      {% endif %}
+
+      {% if site.contact_facebook %}
+      <a href="{{ site.contact_facebook }}"> <i class="fab fa-facebook fa-3x" style="color:white"></i> </a>
+      {% endif %}
+
+      {% if site.contact_strava %}
+      <a href="{{ site.contact_strava }}"> <i class="fab fa-strava fa-3x" style="color:white"></i> </a>
+      {% endif %}
+
     </section>
+     
 
     <section class="main-content">
       {{ content }}
