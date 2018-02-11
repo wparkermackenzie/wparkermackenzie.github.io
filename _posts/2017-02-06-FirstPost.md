@@ -2,7 +2,7 @@
 layout: default
 title:  "Test Post 1!"
 date:   2015-11-17 16:16:01 -0600
-categories: foobar update
+categories: Foobar
 ---
 
 Hello this is a test of this network this is only a test as I am trying to 

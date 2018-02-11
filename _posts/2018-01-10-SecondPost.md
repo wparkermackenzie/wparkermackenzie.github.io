@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Test Second Post!"
-categories: jekyll update
+categories: Foobar 
 ---
 
 Hello this is a test of this network in another cool and exciting post this is only a test as I am trying to write a whole paragraph and as it seems I am having trouble babbling on for the sake of babbling on. Perhaps the first paragraph should always be an abstract.
