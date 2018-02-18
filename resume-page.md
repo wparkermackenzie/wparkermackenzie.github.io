@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+[Download PDF](/assets/images/Resume_Feb2018_General_r1.pdf)
 
-_yay_
+![](/assets/images/Resume_Feb2018_General_r1.jpg)
 
-[back](./)
+
+
