@@ -3,6 +3,8 @@ layout: default
 title: Components Logic Level Converter Cylewet
 ---
 
+This post contains information on the 2 channel logic level converter from Cylewet. As a data sheet could not be found online, information had to be gathered by contacting the seller and some experimentation. 
+
 # Description
 2 Channel Logic Level Converter 5V to 3.3V and 3.3V to 5V.
 
