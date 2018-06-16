@@ -3,7 +3,7 @@ layout: default
 title: "Working with Posix Threads"
 ---
 
-A method for writing extensible and maintainable multithreaded Linux applications while keeping ones sanity.
+A method for writing extensible and maintainable multithreaded Linux applications while keeping one's sanity.
 
 --- 
 ---
