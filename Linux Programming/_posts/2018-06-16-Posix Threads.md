@@ -274,7 +274,7 @@ int conditionDestroy( pthread_cond_t* condition )
 # Conclusion
 Below you will find a simple example application which was written against the mechanisms described in this post. For large applications, it is highly recommended to break the threads into their own files. As with all examples posted, error handling has been removed to maintain brevity in an effort to increase readability. 
 
-Whether you are building a carrier grade product or a weekend DIY home automation device, with some advance planning and embracing of the tools provided, long lived threaded applications can be both efficient and maintainable. Codified rules used provide the consistency required to avoid hair pulling - hard to find bugs.
+Whether you are building a carrier grade product or a weekend DIY home automation device, with some advance planning and embracing of the tools provided, long lived threaded applications can be both efficient and maintainable. The use of codified rules provides the consistency required to avoid hair pulling - hard to find bugs.
 
 If you have thoughts, questions, or suggestions feel free to contact me. 
 
