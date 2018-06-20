@@ -20,6 +20,9 @@ It need not be complex, nor should it be. What follows are some simple ideas, wh
 
 The following strategies have been and continue to be refined on carrier grade products as well as my own DIY projects. As an example these strategies have been applied successfully when building carrier grade LoRaWAN gateways at Senet. Many of these gateways are expected to run for decades hundreds of feet above the ground, beyond reach of human interaction. 
 
+
+![]({{"/assets/images/threadNeedle.png"}})
+
 ## Embrace the tools provided
 "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail." - Abraham Maslow, 1966, "The Psychology of Science"
 
